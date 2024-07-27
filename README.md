@@ -16,7 +16,7 @@ I'm a passionate developer with experience in various programming languages and 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)(https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)(https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ### Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)][(https://www.linkedin.com/in/rudra-suthar-a77878316/)]
