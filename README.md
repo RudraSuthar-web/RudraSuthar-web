@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-## I'm [Rudra Suthar]!
+## I'm Rudra Suthar!
 
 ### About Me
 I'm a passionate developer with experience in various programming languages and technologies.
