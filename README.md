@@ -13,7 +13,7 @@ I'm a passionate developer with experience in various programming languages and 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=RudraSuthar-web&theme=react&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=RudraSuthar-web&theme=radical&hide_border=true)](https://git.io/streak-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RudraSuthar-web&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RudraSuthar-web&layout=compact&theme=radical)
 
