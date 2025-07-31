@@ -16,6 +16,7 @@ I'm a passionate developer with experience in various programming languages and 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 ### GitHub Stats
@@ -26,4 +27,5 @@ I'm a passionate developer with experience in various programming languages and 
 [![Rudra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RudraSuthar-web&theme=react-dark)](https://github.com/RudraSuthar-web/github-readme-activity-graph)
 
 ### Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)][(https://www.linkedin.com/in/rudra-suthar-a77878316/)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudra-suthar-a77878316/)
+[![X (Twitter)](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/SutharRudra_123)
