@@ -25,10 +25,9 @@ I'm a passionate developer with experience in various programming languages and 
 
 
 ### GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RudraSuthar-web&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RudraSuthar-web&layout=compact&theme=radical" height="180"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=RudraSuthar-web&show_icons=true&theme=radical&cache_seconds=86400" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RudraSuthar-web&layout=compact&theme=radical&langs_count=8&cache_seconds=86400" />
 
 ### Activity Graph
 [![Rudra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RudraSuthar-web&theme=react-dark)](https://github.com/RudraSuthar-web/github-readme-activity-graph)
