@@ -32,9 +32,6 @@ I'm a passionate developer with experience in various programming languages and 
 ### Activity Graph
 [![Rudra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RudraSuthar-web&theme=react-dark)](https://github.com/RudraSuthar-web/github-readme-activity-graph)
 
-### 🔝 Top Contributed Repo
-![](https://github-repository-contribution-stat.vercel.app/api?username=RudraSuthar-web&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ### Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudra-suthar-a77878316/)
 [![X (Twitter)](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/SutharRudra_123)
