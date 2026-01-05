@@ -25,12 +25,19 @@ I'm a passionate developer with experience in various programming languages and 
 
 
 ### GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RudraSuthar-web&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RudraSuthar-web&layout=compact&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=RudraSuthar-web&theme=darcula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=RudraSuthar-web&theme=darcula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RudraSuthar-web&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### Activity Graph
 [![Rudra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RudraSuthar-web&theme=react-dark)](https://github.com/RudraSuthar-web/github-readme-activity-graph)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=RudraSuthar-web&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 ### Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudra-suthar-a77878316/)
 [![X (Twitter)](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/SutharRudra_123)
+
+---
+[![](https://visitcount.itsvg.in/api?id=RudraSuthar-web&icon=0&color=0)](https://visitcount.itsvg.in)
