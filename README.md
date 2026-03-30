@@ -24,10 +24,13 @@ I'm a passionate developer with experience in various programming languages and 
 
 
 
-### GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=RudraSuthar-web&theme=darcula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=RudraSuthar-web&theme=darcula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RudraSuthar-web&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=RudraSuthar-web&show_icons=true&theme=github_dark&cache_seconds=10)
+
+![](https://streak-stats.demolab.com?user=RudraSuthar-web&theme=github-dark&cache_seconds=10)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RudraSuthar-web&layout=compact&theme=github_dark&cache_seconds=10)
 
 ### Activity Graph
 [![Rudra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RudraSuthar-web&theme=react-dark)](https://github.com/RudraSuthar-web/github-readme-activity-graph)
